@@ -6,7 +6,7 @@ This is a clone of the popular puzzle game "Woodoku" created with Python, Pygame
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/woodoku-clone.git
+   git clone https://github.com/abidzzz/matriX.git
    ```
 2. Install the required packages using pip:
    ```sh
