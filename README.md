@@ -5,8 +5,8 @@ This is a clone of the popular puzzle game "Woodoku" created with Python, Pygame
 ## Screenshots
 <p align="left">
 <img src="1.png"></image>
-<img src="2.PNG"></image>
-<img src="3.PNG"></image>
+<img src="2.png"></image>
+<img src="3.png"></image>
 </p>
 ## Installation
 
