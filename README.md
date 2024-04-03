@@ -2,6 +2,12 @@
 
 This is a clone of the popular puzzle game "Woodoku" created with Python, Pygame and Numpy. It is a matrix-based game, where players have to place pieces of different shapes in a 9x9 board. The goal is to complete as many rows and columns as possible and earn points. 
 
+## Screenshots
+<p align="left">
+<img src="1.png"></image>
+<img src="2.PNG"></image>
+<img src="3.PNG"></image>
+</p>
 ## Installation
 
 1. Clone the repo
